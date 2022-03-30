@@ -1,0 +1,1 @@
+Spring Security 1 - Simple Password Authentication (with default login page)
